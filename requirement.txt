@@ -1,0 +1,3 @@
+espeakng
+espeak-ng
+cpp-httplib/httplib.h
