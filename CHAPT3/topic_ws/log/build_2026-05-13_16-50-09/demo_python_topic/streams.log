@@ -1,0 +1,25 @@
+[0.830s] Invoking command in '/home/hzy/hzy_test/CHAPT3/topic_ws/src/demo_python_topic': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/hzy/hzy_test/CHAPT3/topic_ws/build/demo_python_topic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hzy/hzy_test/CHAPT3/topic_ws/install/demo_python_topic/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/demo_python_topic build --build-base /home/hzy/hzy_test/CHAPT3/topic_ws/build/demo_python_topic/build install --record /home/hzy/hzy_test/CHAPT3/topic_ws/build/demo_python_topic/install.log --single-version-externally-managed install_data
+[0.983s] running egg_info
+[0.994s] writing ../../build/demo_python_topic/demo_python_topic.egg-info/PKG-INFO
+[0.994s] writing dependency_links to ../../build/demo_python_topic/demo_python_topic.egg-info/dependency_links.txt
+[0.995s] writing entry points to ../../build/demo_python_topic/demo_python_topic.egg-info/entry_points.txt
+[0.995s] writing requirements to ../../build/demo_python_topic/demo_python_topic.egg-info/requires.txt
+[0.995s] writing top-level names to ../../build/demo_python_topic/demo_python_topic.egg-info/top_level.txt
+[1.016s] reading manifest file '../../build/demo_python_topic/demo_python_topic.egg-info/SOURCES.txt'
+[1.016s] adding license file 'LICENSE'
+[1.017s] writing manifest file '../../build/demo_python_topic/demo_python_topic.egg-info/SOURCES.txt'
+[1.018s] running build
+[1.018s] running build_py
+[1.018s] copying demo_python_topic/novel_pub_node.py -> /home/hzy/hzy_test/CHAPT3/topic_ws/build/demo_python_topic/build/lib/demo_python_topic
+[1.018s] running install
+[1.022s] running install_lib
+[1.032s] copying /home/hzy/hzy_test/CHAPT3/topic_ws/build/demo_python_topic/build/lib/demo_python_topic/novel_pub_node.py -> /home/hzy/hzy_test/CHAPT3/topic_ws/install/demo_python_topic/lib/python3.12/site-packages/demo_python_topic
+[1.033s] byte-compiling /home/hzy/hzy_test/CHAPT3/topic_ws/install/demo_python_topic/lib/python3.12/site-packages/demo_python_topic/novel_pub_node.py to novel_pub_node.cpython-312.pyc
+[1.033s] running install_data
+[1.033s] running install_egg_info
+[1.045s] removing '/home/hzy/hzy_test/CHAPT3/topic_ws/install/demo_python_topic/lib/python3.12/site-packages/demo_python_topic-0.0.0-py3.12.egg-info' (and everything under it)
+[1.046s] Copying ../../build/demo_python_topic/demo_python_topic.egg-info to /home/hzy/hzy_test/CHAPT3/topic_ws/install/demo_python_topic/lib/python3.12/site-packages/demo_python_topic-0.0.0-py3.12.egg-info
+[1.046s] running install_scripts
+[1.125s] Installing nove_pub_node script to /home/hzy/hzy_test/CHAPT3/topic_ws/install/demo_python_topic/lib/demo_python_topic
+[1.125s] writing list of installed files to '/home/hzy/hzy_test/CHAPT3/topic_ws/build/demo_python_topic/install.log'
+[1.144s] Invoked command in '/home/hzy/hzy_test/CHAPT3/topic_ws/src/demo_python_topic' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/hzy/hzy_test/CHAPT3/topic_ws/build/demo_python_topic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hzy/hzy_test/CHAPT3/topic_ws/install/demo_python_topic/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/demo_python_topic build --build-base /home/hzy/hzy_test/CHAPT3/topic_ws/build/demo_python_topic/build install --record /home/hzy/hzy_test/CHAPT3/topic_ws/build/demo_python_topic/install.log --single-version-externally-managed install_data

@@ -3,7 +3,7 @@ from rclpy.node import Node
 
 class PresonNode(Node):
     def __init__(self, node_name:str, name_value:str, age_value:int) -> None:
-        super().__init__(node_name)
+        super().__init__(node_name) # 继承父类
         self.name = name_value
         self.age = age_value
         
