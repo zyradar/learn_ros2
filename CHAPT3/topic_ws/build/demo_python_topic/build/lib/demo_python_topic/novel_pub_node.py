@@ -7,7 +7,7 @@ from queue import Queue
 class NovelPubNode(Node):
     def __init__(self, node_name):
         super().__init__(node_name)     # 继承父类的构造函数
-        self.get_logger().info(f'{node_name}open!')
+        self.get_logger().info(f'{node_name} is open!')
         self.novels_queue_ = Queue()
         self.novel_publisher_ = self.create_publisher(String, 'novel', 10)  # 发布话题
         self.create_timer(5, self.timer_callback)   # 间隔5s执行一次回调

@@ -1,6 +1,8 @@
 /home/hzy/hzy_test/CHAPT3/topic_ws/install/demo_python_topic/lib/python3.12/site-packages/demo_python_topic/novel_pub_node.py
+/home/hzy/hzy_test/CHAPT3/topic_ws/install/demo_python_topic/lib/python3.12/site-packages/demo_python_topic/novel_sub_node.py
 /home/hzy/hzy_test/CHAPT3/topic_ws/install/demo_python_topic/lib/python3.12/site-packages/demo_python_topic/__init__.py
 /home/hzy/hzy_test/CHAPT3/topic_ws/install/demo_python_topic/lib/python3.12/site-packages/demo_python_topic/__pycache__/novel_pub_node.cpython-312.pyc
+/home/hzy/hzy_test/CHAPT3/topic_ws/install/demo_python_topic/lib/python3.12/site-packages/demo_python_topic/__pycache__/novel_sub_node.cpython-312.pyc
 /home/hzy/hzy_test/CHAPT3/topic_ws/install/demo_python_topic/lib/python3.12/site-packages/demo_python_topic/__pycache__/__init__.cpython-312.pyc
 /home/hzy/hzy_test/CHAPT3/topic_ws/install/demo_python_topic/share/ament_index/resource_index/packages/demo_python_topic
 /home/hzy/hzy_test/CHAPT3/topic_ws/install/demo_python_topic/share/demo_python_topic/package.xml
@@ -12,3 +14,4 @@
 /home/hzy/hzy_test/CHAPT3/topic_ws/install/demo_python_topic/lib/python3.12/site-packages/demo_python_topic-0.0.0-py3.12.egg-info/PKG-INFO
 /home/hzy/hzy_test/CHAPT3/topic_ws/install/demo_python_topic/lib/python3.12/site-packages/demo_python_topic-0.0.0-py3.12.egg-info/entry_points.txt
 /home/hzy/hzy_test/CHAPT3/topic_ws/install/demo_python_topic/lib/demo_python_topic/nove_pub_node
+/home/hzy/hzy_test/CHAPT3/topic_ws/install/demo_python_topic/lib/demo_python_topic/nove_sub_node

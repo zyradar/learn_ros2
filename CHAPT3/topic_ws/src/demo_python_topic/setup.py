@@ -25,6 +25,8 @@ setup(
     entry_points={
         'console_scripts': [
             'nove_pub_node=demo_python_topic.novel_pub_node:main',
+            'nove_sub_node=demo_python_topic.novel_sub_node:main',
+            
         ],
     },
 )
