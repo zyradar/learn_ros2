@@ -29,7 +29,7 @@ if(BUILD_TESTING)
   ament_lint_auto_find_test_dependencies()
 endif()
 
-install(TARGETS turtle_circle
+install(TARGETS turtle_circle turtle_control
 DESTINATION lib/${PROJECT_NAME}
 )
 

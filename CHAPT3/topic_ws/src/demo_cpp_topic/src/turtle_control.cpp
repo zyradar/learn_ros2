@@ -24,7 +24,7 @@ class TurtlrControlNode: public rclcpp::Node     // 继承来自rclcpp下的Node
             // 共享指针赋值
             publisher_ = this-> create_publisher<geometry_msgs::msg::Twist>("/turtle1/cmd_vel", 10);
             subscriber_ = this -> create_subscription<turtlesim::msg::Pose>("/turtle1/pose"
-                            , 10, std::bind(&TurtlrControlNode::on_pose_received_, this));
+                            , 10, std::bind(&TurtlrControlNode::on_pose_received_, this, std::placeholders::_1));
             // timer_ = this -> create_wall_timer(1000ms, std::bind(&TurtlrControlNode::timer_callback, this));
             // this : 指向当前对象的指针
         }

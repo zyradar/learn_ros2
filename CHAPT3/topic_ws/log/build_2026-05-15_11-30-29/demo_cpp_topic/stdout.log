@@ -1,4 +1,0 @@
-[ 25%] [32mBuilding CXX object CMakeFiles/turtle_circle.dir/src/turtle_circle.cpp.o[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/turtle_control.dir/src/turtle_control.cpp.o[0m
-[ 75%] [32m[1mLinking CXX executable turtle_circle[0m
-[ 75%] Built target turtle_circle
