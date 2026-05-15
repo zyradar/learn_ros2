@@ -1,0 +1,22 @@
+[0.603s] Invoking command in '/home/hzy/hzy_test/CHAPT3/topic_practice_ws/src/status_publisher': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/hzy/hzy_test/CHAPT3/topic_practice_ws/build/status_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hzy/hzy_test/CHAPT3/topic_practice_ws/install/status_publisher/lib/python3.12/site-packages:/home/hzy/hzy_test/CHAPT3/topic_practice_ws/install/status_interfaces/lib/python3.12/site-packages:/home/hzy/hzy_test/CHAPT3/topic_practice_ws/install/status_publisher/lib/python3.12/site-packages:/home/hzy/hzy_test/CHAPT3/topic_ws/install/demo_python_topic/lib/python3.12/site-packages:/opt/ros/jazzy/lib/python3.12/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/status_publisher build --build-base /home/hzy/hzy_test/CHAPT3/topic_practice_ws/build/status_publisher/build install --record /home/hzy/hzy_test/CHAPT3/topic_practice_ws/build/status_publisher/install.log --single-version-externally-managed install_data
+[0.783s] running egg_info
+[0.794s] writing ../../build/status_publisher/status_publisher.egg-info/PKG-INFO
+[0.794s] writing dependency_links to ../../build/status_publisher/status_publisher.egg-info/dependency_links.txt
+[0.795s] writing entry points to ../../build/status_publisher/status_publisher.egg-info/entry_points.txt
+[0.796s] writing requirements to ../../build/status_publisher/status_publisher.egg-info/requires.txt
+[0.796s] writing top-level names to ../../build/status_publisher/status_publisher.egg-info/top_level.txt
+[0.817s] reading manifest file '../../build/status_publisher/status_publisher.egg-info/SOURCES.txt'
+[0.817s] adding license file 'LICENSE'
+[0.819s] writing manifest file '../../build/status_publisher/status_publisher.egg-info/SOURCES.txt'
+[0.819s] running build
+[0.819s] running build_py
+[0.819s] running install
+[0.823s] running install_lib
+[0.836s] running install_data
+[0.836s] running install_egg_info
+[0.849s] removing '/home/hzy/hzy_test/CHAPT3/topic_practice_ws/install/status_publisher/lib/python3.12/site-packages/status_publisher-0.0.0-py3.12.egg-info' (and everything under it)
+[0.849s] Copying ../../build/status_publisher/status_publisher.egg-info to /home/hzy/hzy_test/CHAPT3/topic_practice_ws/install/status_publisher/lib/python3.12/site-packages/status_publisher-0.0.0-py3.12.egg-info
+[0.851s] running install_scripts
+[0.929s] Installing sys_status_pub script to /home/hzy/hzy_test/CHAPT3/topic_practice_ws/install/status_publisher/lib/status_publisher
+[0.929s] writing list of installed files to '/home/hzy/hzy_test/CHAPT3/topic_practice_ws/build/status_publisher/install.log'
+[0.960s] Invoked command in '/home/hzy/hzy_test/CHAPT3/topic_practice_ws/src/status_publisher' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/hzy/hzy_test/CHAPT3/topic_practice_ws/build/status_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hzy/hzy_test/CHAPT3/topic_practice_ws/install/status_publisher/lib/python3.12/site-packages:/home/hzy/hzy_test/CHAPT3/topic_practice_ws/install/status_interfaces/lib/python3.12/site-packages:/home/hzy/hzy_test/CHAPT3/topic_practice_ws/install/status_publisher/lib/python3.12/site-packages:/home/hzy/hzy_test/CHAPT3/topic_ws/install/demo_python_topic/lib/python3.12/site-packages:/opt/ros/jazzy/lib/python3.12/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/status_publisher build --build-base /home/hzy/hzy_test/CHAPT3/topic_practice_ws/build/status_publisher/build install --record /home/hzy/hzy_test/CHAPT3/topic_practice_ws/build/status_publisher/install.log --single-version-externally-managed install_data
